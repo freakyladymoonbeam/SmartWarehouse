@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartWarehouse.Core/SmartWarehouse.Core.csproj" />
+  <Project Path="SmartWarehouse.Tests/SmartWarehouse.Tests.csproj" />
+</Solution>
